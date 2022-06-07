@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Zingat sitesinin yayınlamış olduğu demografik bilgi gibi bilgileri web scrapping metoduyla topladım. Verilerin çoğunluğu grafikler üzerinde bulunuyordu.
+# Grafiklere gelen veri de bir yerden gelmek zorunda olduğu için gelen tüm paketleri kayıt ederek veri içinden ayrıştırıldı.
 
 # In[ ]:
 
