@@ -1,3 +1,10 @@
+#Sahibinden sitesinde gerekli sınırlamaları yaptıktan sonra link programa yazılır. Paylaşılan linkte öncekilerden farklı kiralık ev ilanı varsa ilanın linki mail olarak
+#gönderilir. 
+
+#Google düşük güvenlikli programlara erişim yetkisini kapattığından şu aşamada çalışmadığını düşünüyorum fakat 5 dakika içinde düzeltilebilir.
+
+
+
 #!/usr/bin/env python
 # coding: utf-8
 
