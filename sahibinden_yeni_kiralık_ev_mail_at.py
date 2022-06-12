@@ -2,7 +2,7 @@
 #gönderilir. 
 
 #Google düşük güvenlikli programlara erişim yetkisini kapattığından şu aşamada çalışmadığını düşünüyorum fakat 5 dakika içinde düzeltilebilir.
-
+#
 
 
 #!/usr/bin/env python
