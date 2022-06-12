@@ -1,4 +1,4 @@
-    %% 10:10 Alanın Çizdirilmesi
+    %% 10:10 Alanı Çizdirme
 close all; clc; clear;
 x1=-5;
 x2=5;
