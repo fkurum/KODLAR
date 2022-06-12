@@ -2,7 +2,7 @@
 # coding: utf-8
 #Bitirme çalışması için yaptığımız uzaktan erişimli otonom silah. Sistemin arayüzü tkinter kütüphanesi üzerinden yazılmıştır.
 # In[1]:
-
+#
 
 from IPython.display import clear_output
 import socket
