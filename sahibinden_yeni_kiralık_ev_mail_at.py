@@ -50,7 +50,6 @@ def check(dff_list,dfk_list):
         driver.get(site)
         time.sleep(3)
         driver.get(site)
-        #sahibinden beni blokladı sayfayı yenileyince açılıyor
 
         for x in range(1,52):
             if x == 4: #reklam
