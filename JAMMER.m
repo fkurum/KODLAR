@@ -189,5 +189,4 @@ subplot(2,1,1)
 plot(F2,mag_X2,'r'),grid on;
 title('Genlik Spektrumue');
  
- 
-    
+ %%
